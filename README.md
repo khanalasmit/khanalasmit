@@ -1,10 +1,7 @@
-- 👋 Hi, I’m Asmit Khanal
+- 👋 Hi, I’m Asmit Khanal currently studying computer engineering in the Pulchowk Campus, Institiute of Engineering, Pulchowk , Lalitpur.I am in second year right now eagrly studying hardware and the software.
 - 👀 I’m interested in csomic researchs.
 - 🌱 I’m currently learning data science.
-- 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 khanalasmit/khanalasmit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
