@@ -39,7 +39,6 @@ I am a computer engineering student with a strong foundation in programming and 
 ### AI & Advanced ML Concepts
 
 ![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented%20Generation-blue?style=for-the-badge)
-![Reinforcement Learning]([https://img.shields.io/badge/Reinforcement%20Learning-Policy%20Optimization-green](https://img.shields.io/badge/Reinforcement%20Learning-Policy%20Optimization-green)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
@@ -74,7 +73,7 @@ I am a computer engineering student with a strong foundation in programming and 
 ## 📫 Connect With Me
 
 * GitHub: **@khanalasmit**
-* LinkedIn: *www.linkedin.com/in/asmit-khanal-641211345**
+* LinkedIn: **www.linkedin.com/in/asmit-khanal-641211345**
 
 ---
 
