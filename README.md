@@ -13,6 +13,8 @@ I am a computer engineering student with a strong foundation in programming and 
 * Backend & Application Development
 * Algorithms and Problem Solving
 * Data Engineering Basics
+* Agentic Ai
+* RAG based systems
 
 ---
 
@@ -32,9 +34,12 @@ I am a computer engineering student with a strong foundation in programming and 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
 
-### Databases
+### AI & Advanced ML Concepts
 
+![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented%20Generation-blue?style=for-the-badge)
+![Reinforcement Learning]([https://img.shields.io/badge/Reinforcement%20Learning-Policy%20Optimization-green](https://img.shields.io/badge/Reinforcement%20Learning-Policy%20Optimization-green)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
@@ -68,10 +73,9 @@ I am a computer engineering student with a strong foundation in programming and 
 
 ## 📫 Connect With Me
 
-* GitHub: **@your-github-username**
-* LinkedIn: **Add your LinkedIn link here**
+* GitHub: **@khanalasmit**
+* LinkedIn: *www.linkedin.com/in/asmit-khanal-641211345**
 
 ---
 
 ⭐ *Always curious, always learning, and building step by step.*
-
