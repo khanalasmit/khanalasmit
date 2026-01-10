@@ -3,19 +3,6 @@
 🎓 **Computer Engineering Student** | 📊 **Aspiring Data Scientist** | 💻 **Software Developer**
 
 I am a computer engineering student with a strong foundation in programming and a growing focus on data science and machine learning. I have experience building applications in C++, Python, and JavaScript, working with databases, and developing small projects ranging from system-level programming to data analysis and visualization.
-
----
-
-## 🧠 Areas of Interest
-
-* Data Science & Analytics
-* Machine Learning Fundamentals
-* Backend & Application Development
-* Algorithms and Problem Solving
-* Data Engineering Basics
-* Agentic Ai
-* RAG based systems
-
 ---
 
 ## 🛠️ Skills & Technologies
@@ -47,28 +34,8 @@ I am a computer engineering student with a strong foundation in programming and 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge\&logo=qt\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
----
-
-## 📌 Notable Experience & Projects
-
-* Weather forecasting application using C++ and APIs
-* Qt-based GUI applications with dynamic UI behavior
-* Data analysis on air quality and fire count datasets
-* SQL-based data exploration and analytics
-* Learning and implementing machine learning fundamentals
-
----
-
-## 📈 Currently Learning
-
-* Advanced Data Science concepts
-* Machine Learning models and evaluation
-* Data Structures and Algorithms
-* Building data-driven web applications
-
----
+----
 
 ## 📫 Connect With Me
 
